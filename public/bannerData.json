@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Discover the Beauty of Bali",
+      "subtitle": "Experience the ultimate island getaway with stunning beaches and rich culture.",
+      "buttonText": "Explore Bali",
+      "image": "https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fG5hdHVyZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 2,
+      "title": "Adventure Awaits in the Swiss Alps",
+      "subtitle": "Plan your skiing or hiking trip with breathtaking mountain views.",
+      "buttonText": "Book Adventure",
+      "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDZ8fG5hdHVyZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 3,
+      "title": "Cultural Wonders of Japan",
+      "subtitle": "Immerse yourself in Japan’s rich heritage and modern marvels.",
+      "buttonText": "Visit Japan",
+      "image": "https://images.pexels.com/photos/2873649/pexels-photo-2873649.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 4,
+      "title": "Experience the Safari in Kenya",
+      "subtitle": "Witness the Big Five and more in the heart of Africa.",
+      "buttonText": "Safari Now",
+      "image": "https://images.pexels.com/photos/461940/pexels-photo-461940.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 5,
+      "title": "Relax in the Maldives",
+      "subtitle": "Unwind in paradise with clear blue waters and luxurious resorts.",
+      "buttonText": "Book Maldives",
+      "image": "https://images.pexels.com/photos/4840134/pexels-photo-4840134.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
+  

@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "title": "Expert Tour Guides",
+      "description": "Our experienced guides ensure that you explore every destination with deep insights, making your journey unforgettable.",
+      "icon": "🌍"
+    },
+    {
+      "id": 2,
+      "title": "Customizable Packages",
+      "description": "We offer tailored tour packages to meet your preferences and budget, ensuring a personalized travel experience.",
+      "icon": "🎒"
+    },
+    {
+      "id": 3,
+      "title": "24/7 Customer Support",
+      "description": "Travel with peace of mind knowing our dedicated support team is available anytime, anywhere to assist you.",
+      "icon": "📞"
+    },
+    {
+      "id": 4,
+      "title": "Affordable Pricing",
+      "description": "Enjoy competitive pricing without compromising on the quality of services and experiences.",
+      "icon": "💰"
+    },
+    {
+      "id": 5,
+      "title": "Safe & Secure Travel",
+      "description": "Your safety is our top priority. We partner with trusted vendors and provide travel insurance options for a secure journey.",
+      "icon": "🛡️"
+    },
+    {
+      "id": 6,
+      "title": "Exclusive Destinations",
+      "description": "Discover hidden gems and off-the-beaten-path locations for a unique and memorable adventure.",
+      "icon": "🏖️"
+    },
+    {
+      "id": 7,
+      "title": "Eco-Friendly Options",
+      "description": "Support sustainable tourism by choosing our eco-friendly tours that minimize environmental impact.",
+      "icon": "🌱"
+    }
+  ]
+  
