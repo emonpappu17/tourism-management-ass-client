@@ -1,81 +1,54 @@
-<div align="center">
-  
-# 🌍 Wanderlust - Southeast Asia Tourism Management Platform
+# ✈️ Wanderlust Wonders
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Available-success?style=for-the-badge)](https://wanderlust-tourism.web.app/)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/wanderlust-tourism?style=for-the-badge)](https://github.com/yourusername/wanderlust-tourism)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+## 🌐 Live Website
+[Visit Wanderlust Wonders Live](https://your-live-site-link.com)
 
-</div>
+---
 
-## 📌 Project Overview
-A full-stack tourism management platform focusing on Southeast Asian destinations, designed to showcase tourist spots with comprehensive information and user-friendly management features.
+## 📚 Project Overview
 
-![Platform Screenshot](https://i.ibb.co/your-screenshot.png)
+**Wanderlust Wonders** is a Tourism Management Web Application focused on promoting tourist spots of a specific region.  
+This project allows users to explore, add, manage, and update famous tourist spots, providing a fully functional CRUD experience with authentication.
 
-## ✨ Key Features
+---
 
-### 🔐 Authentication System
-- Email/Password login with validation
-- Social login (Google & GitHub)
-- JWT protected routes
-- Persistent session after refresh
+## 🛠️ Features
 
-### 🗺️ Tourism Management
-- Add new tourist spots with 12+ details
-- Update/Delete existing entries
-- View personal contributions (My List)
-- Browse all tourist spots with sorting
+- 🔥 Fully responsive design for Desktop, Tablet, and Mobile devices.
+- 🔐 Firebase Authentication (Email/Password, Google Sign-In).
+- 🏞️ Add, View, Update, and Delete Tourist Spots (with private/protected routes).
+- 🌍 Explore by country with dedicated pages for each country’s tourist spots.
+- 🌙 Light and Dark Mode toggle feature.
+- 🎉 Attractive UI animations using **Lottie React** and **React Awesome Reveal**.
+- ☁️ Environment Variables used to hide sensitive information (Firebase Config & MongoDB Credentials).
+- ⚡ Toast and SweetAlert2 for better UX (error/success notifications).
 
-### 🌓 UI/UX Features
-- Dark/Light mode toggle
-- Responsive design (mobile, tablet, desktop)
-- Interactive loading states
-- Toast notifications for all actions
+---
 
-### 🏆 Advanced Functionality
-- Country-specific tourist spot filtering
-- Cost-based sorting (ascending/descending)
-- Two bonus animations from react-awesome-reveal
-- Custom tooltips with react-tooltip
+## 🛤️ Selected Category
 
-## 🛠 Tech Stack
+> **Southeast Asia → [Your Country Name Here]**  
+> *(Example: Bangladesh — Sundarban, Cox’s Bazar, etc.)*
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge" alt="DaisyUI">
-</p>
+---
 
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-</p>
+## 📂 Technologies Used
 
-### Database & Auth
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-</p>
+- **React 19** (Latest)
+- **Node.js** and **Express.js** (Backend)
+- **MongoDB** (Database)
+- **Firebase Authentication**
+- **Tailwind CSS v4 + DaisyUI**
+- **TanStack Query** (Data Fetching)
+- **Axios** (HTTP Requests)
+- **SweetAlert2**, **React Hot Toast**
+- **Lottie React**, **React Awesome Reveal**
 
-## 🚀 Getting Started
+---
 
-### Prerequisites
-- Node.js (v16+)
-- MongoDB Atlas account
-- Firebase project
+## 🚀 Installation Instructions
 
-### Installation
-```bash
-# Clone repositories
-git clone https://github.com/yourusername/wanderlust-client.git
-git clone https://github.com/yourusername/wanderlust-server.git
-
-# Install dependencies
-cd wanderlust-client && npm install
-cd ../wanderlust-server && npm install
-
-# Configure environment variables
-# Create .env files in both directories with required keys
+1. Clone the client and server repositories:
+   ```bash
+   git clone https://github.com/your-username/wanderlust-wonders-client.git
+   git clone https://github.com/your-username/wanderlust-wonders-server.git
